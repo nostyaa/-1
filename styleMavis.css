@@ -1,0 +1,33 @@
+body{
+  background-color:#D8BFD8;
+}
+
+h1{
+  text-align:center;
+  background-color:#DDA0DD;
+}
+
+h2{
+  background-color:#EE82EE;
+  font-size:27px;
+  text-align:center;
+}
+
+h3{
+  background-color:#DA70D6;
+  font-size:24px;
+}
+
+.ger{
+  text-align:center;
+}
+
+#kk{
+  font-size:22px;
+  color:#4B0082;
+  background-color:#BA55D3;
+}
+
+p{
+  font-size:20px;
+}
